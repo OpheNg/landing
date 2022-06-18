@@ -1,0 +1,37 @@
+.container {
+  background-color: white;
+  margin: 0px auto;
+  width: 900px;
+  padding-bottom: 32px;
+  }
+
+.container h2 {
+  text-align: center;
+}
+
+.container .cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.container .mini {
+  background-color: white;
+  border-radius: 2px;
+  /* border: solid lightgrey 1px; */
+  box-shadow: 0 0 5px rgb(209 209 209);
+  padding: 24px;
+  height: 240px;
+  width: 180px;
+
+}
+.container .mini h3 {
+  text-align: center;
+
+}
+.container .mini p {
+  text-align: center;
+}
+.container .mini img {
+ text-align: center;
+}
